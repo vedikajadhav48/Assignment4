@@ -120,6 +120,7 @@ public class CircleDrawingView extends View implements GestureDetector.OnGesture
     @Override
     public boolean onDown(MotionEvent e) {
         return false;
+
     }
 
     @Override
