@@ -119,7 +119,6 @@ public class CircleDrawingView extends View implements GestureDetector.OnGesture
 
     @Override
     public boolean onDown(MotionEvent e) {
-      //  Log.i(TAG, "Long Press");
         return false;
     }
 
